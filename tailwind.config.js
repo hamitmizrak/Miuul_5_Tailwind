@@ -2,7 +2,21 @@
 module.exports = {
   content: ["./public/**/*.{html,js}"],
   theme: {
-    extend: {},
+    
+    container: {
+      center: true
+    },
+
+    extend: {
+      colors: {
+        "miuul-red": "red",
+        "miuul-blue": "#0000ff",
+      },
+      fontFamily: {
+        miuul:['Montserrat', 'sans-serif'],
+        open:['Open Sans', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }

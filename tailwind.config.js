@@ -11,6 +11,7 @@ module.exports = {
       colors: {
         "miuul-red": "red",
         "miuul-blue": "#0000ff",
+        "miuul-yellow": "yellow",
       },
       fontFamily: {
         miuul:['Montserrat', 'sans-serif'],

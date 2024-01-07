@@ -16,7 +16,7 @@ module.exports = {
       fontFamily: {
         miuul:['Montserrat', 'sans-serif'],
         open:['Open Sans', 'sans-serif'],
-      },
+      }
     },
   },
   plugins: [],
